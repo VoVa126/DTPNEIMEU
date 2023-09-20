@@ -1,0 +1,72 @@
+.logo {
+    float: left;
+}
+.title{
+    float: left;
+    margin: 0;
+    padding: 5px;
+    color: rgb(25, 69, 28);
+    text-decoration: none;
+    font-size: 36px;
+}
+  .SHAPKA {
+    float: right;
+    word-spacing:30px;
+	font-size:20px;
+  }
+  .SHAPKA ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .SHAPKA li {
+    display: inline-block;
+    margin-left: 10px; 
+}
+
+  .nachalo_saita:after { 
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .nachalo_saita {
+    width: 100%;
+    max-width: 1024px;
+    padding: 15px;
+    margin: 0 auto;
+  }
+  .SHAPKA a{
+    line-height: 50px;
+    text-decoration: none;
+    color: black;
+  }
+  .Spisok{
+    width:50%; 
+  }
+  .nachalo_saita div {
+    float:left;
+    max-width: 960px;
+  }
+  table {
+    border: 1px solid rgb(92, 20, 121);
+    border-collapse: collapse;
+    width: 100%;
+ }
+ td {
+    border: 1px solid rgb(80, 91, 20);
+ }
+tbody tr:nth-child(odd)
+{
+    background: #4b1083;
+}
+tbody tr:nth-child(even)
+{
+    background: #64647a;
+}
+footer{
+  padding: 10px;
+  background-color: #ffa500;
+  color: #000;
+  word-spacing:30px;
+	font-size:20px;
+}
