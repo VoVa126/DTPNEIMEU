@@ -1,5 +1,9 @@
+header {
+	display: flex;
+}
 .logo {
     float: left;
+    
 }
 .title{
     float: left;
