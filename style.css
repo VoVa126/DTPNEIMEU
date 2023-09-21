@@ -1,9 +1,8 @@
 header {
-	display: flex;
+  display: flex;
 }
 .logo {
     float: left;
-    
 }
 .title{
     float: left;
@@ -16,7 +15,7 @@ header {
   .SHAPKA {
     float: right;
     word-spacing:30px;
-	font-size:20px;
+	  font-size:20px;
   }
   .SHAPKA ul {
     margin: 0;
@@ -45,6 +44,7 @@ header {
   }
   .Spisok{
     width:50%; 
+    margin-left: 35%;
   }
   .nachalo_saita div {
     float:left;
