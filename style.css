@@ -62,7 +62,7 @@ header {
  }
 tbody tr:nth-child(odd)
 {
-    background: #4b1083;
+    background: #ffa500;
 }
 tbody tr:nth-child(even)
 {
